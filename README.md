@@ -2,6 +2,9 @@
 
 An open-source 4-in-1 Electronic Speed Controller (ESC) for FPV drones, designed in KiCad 9.
 
+<img width="622" height="678" alt="Screenshot 2026-03-09 at 21 01 59" src="https://github.com/user-attachments/assets/40ab86d7-e7c2-46e8-b2fc-61c8ba19fa80" />
+<img width="604" height="640" alt="Screenshot 2026-03-09 at 21 02 12" src="https://github.com/user-attachments/assets/c0d8b194-cb31-4f07-9650-9fd69ad4cd7d" />
+
 ## Specs
 
 | Parameter | Value |
@@ -15,7 +18,7 @@ An open-source 4-in-1 Electronic Speed Controller (ESC) for FPV drones, designed
 | Protocol | DShot (Betaflight compatible) |
 | Power supply | LMR51420YDDCR buck + TPS746-3.3DRV LDO |
 | Connector | HC-1.0-8PWT (8-pin) |
-| PCB | 4-layer, designed for JLCPCB PCBA |
+| PCB | 6-layer, designed for JLCPCB PCBA |
 
 ## Architecture
 
