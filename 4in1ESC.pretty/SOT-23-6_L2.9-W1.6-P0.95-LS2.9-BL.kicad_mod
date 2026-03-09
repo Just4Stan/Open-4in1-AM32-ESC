@@ -1,0 +1,181 @@
+(footprint "SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL footprint")
+	(tags "SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL footprint C5383002")
+	(property "Reference" "REF**"
+		(at 0 -3.149098 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6cdafcea-814a-4064-8182-77d5963e0a3e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LMR51420YDDCR"
+		(at 0 3.149098 0)
+		(layer "F.Fab")
+		(uuid "c2b41069-3dee-4e69-ba8f-390aa2094162")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/watermark/20210409/C2802264_6F7F1C6A00A3E1E8FF9241F5A0834A49.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62066d63-326b-4fb6-8b59-f579d6635d7b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c53e1ecc-f38e-4055-b7b0-ef9a21d64a93")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C5383002"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d2c81bf0-fa52-4a39-8b61-e7065d3a039f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 1.526492 0.889205)
+		(end 1.526492 -0.889205)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6df07434-e9db-4928-be9d-c36e4e6a7f73")
+	)
+	(fp_line
+		(start -1.526492 0.889205)
+		(end -1.526492 -0.889205)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6bb9affc-9a5b-4ce9-9cb5-7e0b62fd5d55")
+	)
+	(fp_circle
+		(center -1.450089 1.450089)
+		(end -1.420117 1.450089)
+		(stroke
+			(width 0.059995)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "4cd6b426-3364-41bf-b74b-803c0da64a85")
+	)
+	(fp_circle
+		(center -1.668275 1.301499)
+		(end -1.518161 1.301499)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2ddd75bc-49ca-411f-b2fb-a19cb5b1eb85")
+	)
+	(fp_circle
+		(center -0.91999 1.679959)
+		(end -0.819914 1.679959)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "e96b2bf1-e882-420b-97f7-cdcbaf0747fe")
+	)
+	(fp_text user "REF**"
+		(at 0 5.149098 0)
+		(layer "F.Fab")
+		(uuid "e98cf7bd-7723-4783-8a27-7c056821db8e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.949962 1.149098 180)
+		(size 0.532004 1.072009)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "08aa8a67-9542-46ae-a21c-a9e87a8d4607")
+	)
+	(pad "2" smd rect
+		(at 0 1.149098 180)
+		(size 0.532004 1.072009)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "05b0dbd9-7f24-44cf-8089-ee6445bcc70e")
+	)
+	(pad "3" smd rect
+		(at 0.949962 1.149098 180)
+		(size 0.532004 1.072009)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6fe1cdd1-ffaa-4b4c-8c12-908e39328ab8")
+	)
+	(pad "4" smd rect
+		(at 0.949962 -1.149098 180)
+		(size 0.532004 1.072009)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "434a6328-b401-4aaa-ab1e-f17a9bb178f6")
+	)
+	(pad "5" smd rect
+		(at 0 -1.149098 180)
+		(size 0.532004 1.072009)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e07d0ba9-26ad-4306-b18f-ea78ee40c05b")
+	)
+	(pad "6" smd rect
+		(at -0.949962 -1.149098 180)
+		(size 0.532004 1.072009)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "eca6c97e-76b1-4e4f-904a-1ff5dd355678")
+	)
+	(embedded_fonts no)
+	(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerV3/JLC2KiCad_lib/footprint/packages3d/SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

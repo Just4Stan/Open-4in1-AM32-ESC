@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "4in1ESC")(type "KiCad")(uri "${KIPRJMOD}/4in1ESC.pretty")(options "")(descr ""))
+)

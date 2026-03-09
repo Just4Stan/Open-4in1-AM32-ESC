@@ -1,0 +1,258 @@
+(footprint "POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL footprint")
+	(tags "POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL footprint C22466709")
+	(property "Reference" "REF**"
+		(at 0 -3.561087 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "59168b17-f2c1-488c-8a59-efeb4a6fc200")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SP40N03GNJ"
+		(at 0 3.562103 0)
+		(layer "F.Fab")
+		(uuid "39c79489-9dd2-4bc1-9e90-316f16d000bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "241b6661-8a3c-41f5-b65a-3cbe4762ddeb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "-55℃~+150℃ 1.5V@250uA 1.675nF 2.9mΩ@10V 26nC@20V 31pF 395pF 40V 55W 75A N-Channel PDFN-8L(3x3) MOSFETs ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a3494a25-24f8-4e94-a8d5-a9c22746f90e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C22466709"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b87bd791-ad1b-41fa-b75e-01a166a6f991")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.650013 1.562103)
+		(end -1.650013 -1.435103)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "97466ae4-a18b-4f09-88f3-0e6d2c4252d6")
+	)
+	(fp_line
+		(start -1.650013 1.562103)
+		(end -1.397003 1.562103)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3dd525aa-2185-4053-a69e-aedd615ac9ef")
+	)
+	(fp_line
+		(start -1.649479 -1.561087)
+		(end -1.649987 -1.435103)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b80549c2-9717-4643-8b97-affda16811f8")
+	)
+	(fp_line
+		(start -1.649479 -1.561087)
+		(end -1.649479 -1.561087)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3064773b-3bb3-45c6-9c7b-a34bc4702dfa")
+	)
+	(fp_line
+		(start -1.409195 -1.560071)
+		(end -1.649479 -1.561087)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6f20ae4b-85bc-4809-bac3-9f0fc89cc511")
+	)
+	(fp_line
+		(start 1.650013 -1.559995)
+		(end 1.409144 -1.559995)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "63b25ab0-6e6e-4818-bfa0-3053cc72acdd")
+	)
+	(fp_line
+		(start 1.650013 -1.435103)
+		(end 1.650013 -1.559995)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fe4a5063-9d2d-4ec8-8e83-2bb2a4efad18")
+	)
+	(fp_line
+		(start 1.650013 1.562103)
+		(end 1.346203 1.562103)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "928e1255-63fc-4dd6-af56-51165c1da471")
+	)
+	(fp_line
+		(start 1.650013 1.562103)
+		(end 1.650013 -1.435103)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bbbbb6d8-fa22-43c8-a10a-84c69be47016")
+	)
+	(fp_circle
+		(center -1.560071 2.040132)
+		(end -1.433071 2.040132)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "aa2b5d03-0231-4f80-bfe9-3e63bad66bc7")
+	)
+	(fp_circle
+		(center -1 2)
+		(end -0.873 2)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "8cb92813-4540-4475-a6c9-730338eb201b")
+	)
+	(fp_text user "REF**"
+		(at 0 5.562103 0)
+		(layer "F.Fab")
+		(uuid "79d8189f-582d-4e12-b630-fe1d7329a3d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.975108 1.485903)
+		(size 0.405994 0.991008)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "292f2fde-edbe-4a4d-92d6-a986ae67837a")
+	)
+	(pad "1" smd rect
+		(at -0.324867 1.485903)
+		(size 0.405994 0.991008)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "47ebff7e-a182-40de-affb-411a0258ee77")
+	)
+	(pad "1" smd rect
+		(at 0.325121 1.485903)
+		(size 0.405994 0.991008)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e99f1ce0-b24a-4edd-a591-ebdfe53c8b25")
+	)
+	(pad "2" smd rect
+		(at 0.975108 1.485903)
+		(size 0.405994 0.991008)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b9ccfbc0-ffea-4366-b232-a9211b9464b8")
+	)
+	(pad "3" smd rect
+		(at -0.975108 -1.485903)
+		(size 0.405994 0.762002)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "929fdbed-ee42-4c6e-b71f-2235d5505811")
+	)
+	(pad "3" smd rect
+		(at -0.324867 -1.485903)
+		(size 0.405994 0.762002)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ccc6f87c-07bf-4d33-86de-ee319f40793c")
+	)
+	(pad "3" smd rect
+		(at 0 -0.520701)
+		(size 2.5 1.727)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "64eb86cd-2b66-47dd-9731-f0f33b2401e2")
+	)
+	(pad "3" smd rect
+		(at 0.325121 -1.485903)
+		(size 0.405994 0.762002)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fc4ab040-ba5a-45a9-b9ad-259eec368f7d")
+	)
+	(pad "3" smd rect
+		(at 0.975108 -1.485903)
+		(size 0.405994 0.762002)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "063b6e8a-b445-4d7c-9816-56478390d3ef")
+	)
+	(embedded_fonts no)
+	(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

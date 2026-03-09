@@ -1,0 +1,215 @@
+(footprint "IND-SMD_L1.6-W0.8_FTC160865SR47MBCA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "IND-SMD_L1.6-W0.8_FTC160865SR47MBCA footprint")
+	(tags "IND-SMD_L1.6-W0.8_FTC160865SR47MBCA footprint C48391583")
+	(property "Reference" "REF**"
+		(at -0.006731 -2.669723 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "fc5b8228-0c36-4849-b436-294b4479f13f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "XRIM160808SR47MBCD"
+		(at -0.006731 2.651486 0)
+		(layer "F.Fab")
+		(uuid "0d891a04-417d-47ec-b7de-5f4bb2fd93ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20230602/8FFEDA9C0247A92A0D4B67554BFE4091.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39caa2c9-7dae-4ba2-a709-4ffc52168201")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76c5eb86-4ce5-4fa7-92b7-4cfbc2f81b2d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C48391583"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e46ec5c6-ee03-40b6-8890-5d04242b7d3f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 1.410643 0.499136)
+		(end 1.258344 0.651486)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "47e8d402-a4df-4336-9603-f0491f9591e9")
+	)
+	(fp_line
+		(start 1.410643 -0.517297)
+		(end 1.410643 0.499136)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3b80cf09-3010-4460-a0c4-ed44f91a1a50")
+	)
+	(fp_line
+		(start 1.258344 0.651486)
+		(end 0.496342 0.651486)
+		(stroke
+			(width 0.151994)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c43d4c46-6eb7-4159-8cd0-834a46404643")
+	)
+	(fp_line
+		(start 1.258344 -0.669723)
+		(end 1.410643 -0.517297)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "60975bfd-e8bc-493c-832b-eeb4dee9ff63")
+	)
+	(fp_line
+		(start 1.258344 -0.669723)
+		(end 0.496342 -0.669723)
+		(stroke
+			(width 0.151994)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6ce37c90-98a1-4c07-b5df-3f0332f0c28e")
+	)
+	(fp_line
+		(start -1.271679 0.651486)
+		(end -0.509677 0.651486)
+		(stroke
+			(width 0.151994)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b1c86f93-c047-4f72-8f5c-92d563d4ebf3")
+	)
+	(fp_line
+		(start -1.271679 0.651486)
+		(end -1.424105 0.499136)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d0d005c2-8287-4ef4-b67b-a236b1306993")
+	)
+	(fp_line
+		(start -1.271679 -0.669723)
+		(end -0.509677 -0.669723)
+		(stroke
+			(width 0.151994)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "118e7d4b-303d-489e-b405-a475e3c176e7")
+	)
+	(fp_line
+		(start -1.424105 0.499136)
+		(end -1.424105 -0.517297)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f7468683-0129-420c-9f3d-2ee0f56f7bc9")
+	)
+	(fp_line
+		(start -1.424105 -0.517297)
+		(end -1.271679 -0.669723)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8fd2cc5f-8f3f-4610-ad61-76a0fb09e75a")
+	)
+	(fp_circle
+		(center 0.800102 -0.400051)
+		(end 0.830074 -0.400051)
+		(stroke
+			(width 0.059995)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "046c9247-f92f-48dd-b7dd-587229837d4a")
+	)
+	(fp_text user "REF**"
+		(at -0.006731 4.651486 0)
+		(layer "F.Fab")
+		(uuid "34afaf0f-064a-447c-8805-e2929ef07d1e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0.700025 0)
+		(size 0.8 0.864008)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c6a41faf-644a-49ee-9d49-d2c2f9be4818")
+	)
+	(pad "2" smd rect
+		(at -0.700025 0)
+		(size 0.8 0.864008)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "498dc168-2d0e-48a4-8335-b50cebb6001c")
+	)
+	(embedded_fonts no)
+	(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerV3/JLC2KiCad_lib/footprint/packages3d/IND-SMD_L1.6-W0.8_FTC160865SR47MBCA.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
