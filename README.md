@@ -55,7 +55,7 @@ production/           JLCPCB fabrication files
 
 - [ ] Fix current sensing circuit (INA199A1DCKR)
 - [ ] Get AM32 certified ([AM32 Discord](https://discord.gg/am32))
-- [ ] Switch to [Betaflight Connector Standard](https://betaflight.com/docs/development/manufacturer/connector-standard) — 8-pin JST-SH with standard pinout (VBAT, GND, Current, Telemetry, Signal 1-4)
+- [✓] Switch to [Betaflight Connector Standard](https://betaflight.com/docs/development/manufacturer/connector-standard) — 8-pin JST-SH with standard pinout (VBAT, GND, Current, Telemetry, Signal 1-4)
 - [ ] Evaluate Betaflight 10-pin variant for dual power/ground pins
 
 ## License
