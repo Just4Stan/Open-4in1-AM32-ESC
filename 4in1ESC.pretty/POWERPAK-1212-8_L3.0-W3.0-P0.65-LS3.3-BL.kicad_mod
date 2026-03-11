@@ -244,7 +244,7 @@
 		(uuid "063b6e8a-b445-4d7c-9816-56478390d3ef")
 	)
 	(embedded_fonts no)
-	(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+	(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 		(offset
 			(xyz 0 0 0)
 		)

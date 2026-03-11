@@ -242,7 +242,7 @@
 		(uuid "19835a9d-f10a-4f6f-ad36-4d34eb75aa5f")
 	)
 	(embedded_fonts no)
-	(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/QFN-28_L4.0-W4.0-P0.40-TL-EP2.4.step"
+	(model "${KIPRJMOD}/4in1ESC.3dshapes/QFN-28_L4.0-W4.0-P0.40-TL-EP2.4.step"
 		(offset
 			(xyz 0 0 0)
 		)

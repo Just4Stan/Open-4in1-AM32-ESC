@@ -210,7 +210,7 @@
 		(uuid "721f091b-24fc-4518-bdaf-521cf14446c1")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/4in1ESC-backups/JLC2KiCad_lib/footprint/packages3d/CONN-SMD_HC-1.0-8PWT.step"
+	(model "${KIPRJMOD}/4in1ESC.3dshapes/CONN-SMD_HC-1.0-8PWT.step"
 		(offset
 			(xyz 0 -0.5 -0.5)
 		)

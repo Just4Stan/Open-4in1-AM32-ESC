@@ -167,7 +167,7 @@
 		(uuid "eca6c97e-76b1-4e4f-904a-1ff5dd355678")
 	)
 	(embedded_fonts no)
-	(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerV3/JLC2KiCad_lib/footprint/packages3d/SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL.step"
+	(model "${KIPRJMOD}/4in1ESC.3dshapes/SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL.step"
 		(offset
 			(xyz 0 0 0)
 		)

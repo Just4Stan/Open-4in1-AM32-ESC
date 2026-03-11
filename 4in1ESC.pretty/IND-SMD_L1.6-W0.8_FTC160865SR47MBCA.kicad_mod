@@ -201,7 +201,7 @@
 		(uuid "498dc168-2d0e-48a4-8335-b50cebb6001c")
 	)
 	(embedded_fonts no)
-	(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerV3/JLC2KiCad_lib/footprint/packages3d/IND-SMD_L1.6-W0.8_FTC160865SR47MBCA.step"
+	(model "${KIPRJMOD}/4in1ESC.3dshapes/IND-SMD_L1.6-W0.8_FTC160865SR47MBCA.step"
 		(offset
 			(xyz 0 0 0)
 		)

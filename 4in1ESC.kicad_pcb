@@ -649,7 +649,7 @@
 			(uuid "54396006-9eda-47c4-99d4-9f4b23ef97b0")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -936,7 +936,7 @@
 			(uuid "fb9adefa-9d7d-48bb-b136-37d98631f9a2")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2499,7 +2499,7 @@
 			(uuid "2891bbd9-cbb3-4fa1-ac34-d5c3c38350ad")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2786,7 +2786,7 @@
 			(uuid "9a20ccbb-0a16-4dbf-a832-1bef4794fe49")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3286,7 +3286,7 @@
 			(uuid "a1dc7ffa-4c7b-4bc9-aa75-9ac490e06873")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3573,7 +3573,7 @@
 			(uuid "98c2e56d-1e3e-4f4a-8d3d-f687aaf95c36")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4711,7 +4711,7 @@
 			(uuid "4f56666a-c91e-40b8-8105-c17f94a4cccd")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5424,7 +5424,7 @@
 			(uuid "02d9c906-6fe8-421d-95d8-0ba10b52fc3a")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5711,7 +5711,7 @@
 			(uuid "2b55f25c-099e-444b-b744-cb616e48b6f3")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5998,7 +5998,7 @@
 			(uuid "26e5c053-01a2-4646-8235-429957eeec91")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6285,7 +6285,7 @@
 			(uuid "c0fb8ba4-a4c2-4986-8b1c-c7c188d97027")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6572,7 +6572,7 @@
 			(uuid "c0dfd228-1f75-4da7-8dab-240972c1b2ac")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7071,7 +7071,7 @@
 			(uuid "a74b039a-5511-4e75-9ed2-fedf741b6b99")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7997,7 +7997,7 @@
 			(uuid "f3d10d23-6bb4-4ab5-974c-19c63c2547a7")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8497,7 +8497,7 @@
 			(uuid "5508aada-7a4f-42e3-853b-cb62a5f3476f")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11549,7 +11549,7 @@
 			(uuid "995b8e4b-4c73-4fc3-8075-de3dbe6dec0b")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15040,7 +15040,7 @@
 			(uuid "bffe0517-1cbd-4149-a7c9-e67ead69a90d")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15327,7 +15327,7 @@
 			(uuid "9f4b033a-5d31-440c-ad57-7d507925f6fe")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16253,7 +16253,7 @@
 			(uuid "5323f7ce-c675-4bc5-ab24-98ca5565089e")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16540,7 +16540,7 @@
 			(uuid "40bb7867-9fdf-4e08-8d19-c0f118fce52a")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16827,7 +16827,7 @@
 			(uuid "050ec3f8-c31c-4b96-a334-c3bbff436da5")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17114,7 +17114,7 @@
 			(uuid "79db10fe-c6f0-4bd3-88d2-398c2e9826c5")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18040,7 +18040,7 @@
 			(uuid "dcc68de0-91ff-4373-ba74-72cd3ba94d0a")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18752,7 +18752,7 @@
 			(uuid "8b21bae2-de91-4c0a-9ef0-a415d6d45cc0")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/POWERPAK-1212-8_L3.0-W3.0-P0.65-LS3.3-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24279,7 +24279,7 @@
 			(uuid "ffa1a478-4400-42c5-850d-577238e5e8ce")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerV3/JLC2KiCad_lib/footprint/packages3d/SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24508,7 +24508,7 @@
 			(uuid "4fa41336-d9cc-42e4-a54a-92646b739d15")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerV3/JLC2KiCad_lib/footprint/packages3d/IND-SMD_L1.6-W0.8_FTC160865SR47MBCA.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/IND-SMD_L1.6-W0.8_FTC160865SR47MBCA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29875,7 +29875,7 @@
 			(uuid "adb93dec-2946-49dd-a10e-3b17c9d739bf")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Documents/GitHub/Electronics/V3 PCB/JLC2KiCad_lib/footprint/packages3d/QFN-24_L4.0-W4.0-P0.50-TL-EP2.8.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/QFN-24_L4.0-W4.0-P0.50-TL-EP2.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37719,7 +37719,7 @@
 			(uuid "9cf0f270-8d0d-4c55-aee4-2862dec1e64d")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Documents/GitHub/Electronics/V3 PCB/JLC2KiCad_lib/footprint/packages3d/QFN-24_L4.0-W4.0-P0.50-TL-EP2.8.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/QFN-24_L4.0-W4.0-P0.50-TL-EP2.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -38283,7 +38283,7 @@
 			(uuid "4cfbbd23-9cfe-44ee-9401-9a096b31972d")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/QFN-28_L4.0-W4.0-P0.40-TL-EP2.4.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/QFN-28_L4.0-W4.0-P0.40-TL-EP2.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -39067,7 +39067,7 @@
 			(uuid "3d4d4436-7fec-4234-b362-0315d761381f")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/QFN-28_L4.0-W4.0-P0.40-TL-EP2.4.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/QFN-28_L4.0-W4.0-P0.40-TL-EP2.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41550,7 +41550,7 @@
 			(uuid "b99c90ef-8fd9-4d4e-b865-0db2e98c81ca")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Documents/GitHub/Electronics/V3 PCB/JLC2KiCad_lib/footprint/packages3d/QFN-24_L4.0-W4.0-P0.50-TL-EP2.8.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/QFN-24_L4.0-W4.0-P0.50-TL-EP2.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45138,7 +45138,7 @@
 			(uuid "064e61e6-ac31-42dd-80e7-80cd7535c1a3")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Documents/GitHub/Electronics/V3 PCB/JLC2KiCad_lib/footprint/packages3d/QFN-24_L4.0-W4.0-P0.50-TL-EP2.8.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/QFN-24_L4.0-W4.0-P0.50-TL-EP2.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47345,7 +47345,7 @@
 			(uuid "d930a602-178b-4efc-b04b-7aae9ee7fc84")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/QFN-28_L4.0-W4.0-P0.40-TL-EP2.4.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/QFN-28_L4.0-W4.0-P0.40-TL-EP2.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47909,7 +47909,7 @@
 			(uuid "10dd3670-6101-4b93-beaf-306173de95de")
 		)
 		(embedded_fonts no)
-		(model "/Users/stan/Library/Mobile Documents/com~apple~CloudDocs/StingerESC/JLC2KiCad_lib/footprint/packages3d/QFN-28_L4.0-W4.0-P0.40-TL-EP2.4.step"
+		(model "${KIPRJMOD}/4in1ESC.3dshapes/QFN-28_L4.0-W4.0-P0.40-TL-EP2.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
