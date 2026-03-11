@@ -5062,12 +5062,6 @@
 		(uuid "15beeb43-7997-4a73-9ad3-0bb6dd7b1674")
 	)
 	(junction
-		(at 168.6759 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "178dd6e4-ddee-45fd-966e-ee6f44b577f4")
-	)
-	(junction
 		(at 41.91 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5104,12 +5098,6 @@
 		(uuid "22b1cf83-0238-452e-b16a-0429e6fad140")
 	)
 	(junction
-		(at 145.8159 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "269ee1f7-5722-4eb4-a961-a8c5cc7a6f79")
-	)
-	(junction
 		(at 102.87 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5132,12 +5120,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "314e4b63-b4b4-42c8-809b-2021ad2f4810")
-	)
-	(junction
-		(at 87.63 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "34bbc7cb-2299-41d9-937c-0fff05368a1d")
 	)
 	(junction
 		(at 156.21 46.99)
@@ -5176,28 +5158,10 @@
 		(uuid "41c6f585-8e51-4873-82b7-c59977a94fc1")
 	)
 	(junction
-		(at 145.8159 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "46eee7b8-ca39-4045-ac19-edab7440dcff")
-	)
-	(junction
 		(at 114.3 184.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "487abc38-12bd-4980-a0db-91626048f7d1")
-	)
-	(junction
-		(at 122.9559 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5136e789-db82-4968-ab12-806de2db6213")
-	)
-	(junction
-		(at 134.3859 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "51fdecc7-ed53-40b1-814a-8e4542ac2d65")
 	)
 	(junction
 		(at 134.3859 71.12)
@@ -5248,22 +5212,10 @@
 		(uuid "79821dc0-10bd-4882-8d0d-1523ac8d8e14")
 	)
 	(junction
-		(at 87.63 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7b17683b-8966-4a60-87c9-35808ee26083")
-	)
-	(junction
 		(at 294.64 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7ceca487-edc2-442b-8e62-61221ac1d79c")
-	)
-	(junction
-		(at 122.9559 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7cf153cb-50ed-4497-9258-69d33f4c71f6")
 	)
 	(junction
 		(at 180.34 185.42)
@@ -5332,12 +5284,6 @@
 		(uuid "a08b6634-d82f-4216-bf5e-864a8eada4ce")
 	)
 	(junction
-		(at 157.2459 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a0de5627-6667-4a9b-8a62-86981aaca46d")
-	)
-	(junction
 		(at 121.92 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5348,12 +5294,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a467c725-83b3-4a90-973f-9634a75082db")
-	)
-	(junction
-		(at 134.3859 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a811a28a-d2f8-4b9f-a658-5c6f395e3454")
 	)
 	(junction
 		(at 168.6759 71.12)
@@ -5408,12 +5348,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bab63d10-fdc6-4583-87a3-52eaa4567499")
-	)
-	(junction
-		(at 157.2459 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bc2c7587-6132-4807-b56d-982fd1c82196")
 	)
 	(junction
 		(at 166.37 185.42)
@@ -5476,12 +5410,6 @@
 		(uuid "f2e39b90-19a6-41b8-862d-24e9b6cd6501")
 	)
 	(junction
-		(at 168.6759 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f430e6a4-9312-4776-a3a7-b13444190b79")
-	)
-	(junction
 		(at 36.83 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5526,16 +5454,6 @@
 			(type default)
 		)
 		(uuid "05403e28-c377-409b-8cd2-11df1f81738f")
-	)
-	(wire
-		(pts
-			(xy 134.3859 86.36) (xy 145.8159 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "076b62f6-a404-439d-bfbd-11ca7f4a1b7b")
 	)
 	(wire
 		(pts
@@ -5619,16 +5537,6 @@
 	)
 	(wire
 		(pts
-			(xy 145.8159 85.09) (xy 145.8159 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15c61472-cabf-4585-95c5-3d4f5cf50f64")
-	)
-	(wire
-		(pts
 			(xy 185.42 184.15) (xy 185.42 185.42)
 		)
 		(stroke
@@ -5656,16 +5564,6 @@
 			(type default)
 		)
 		(uuid "1bb527af-1aa4-4978-b844-49ee5a8eb172")
-	)
-	(wire
-		(pts
-			(xy 134.3859 93.98) (xy 145.8159 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c4aab75-2c9f-422c-a553-a20737eb240c")
 	)
 	(wire
 		(pts
@@ -5959,16 +5857,6 @@
 	)
 	(wire
 		(pts
-			(xy 111.5259 86.36) (xy 122.9559 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "448a6ed4-35b2-4a93-9c43-6fce74c1b0d4")
-	)
-	(wire
-		(pts
 			(xy 146.05 175.26) (xy 157.48 175.26)
 		)
 		(stroke
@@ -6169,16 +6057,6 @@
 	)
 	(wire
 		(pts
-			(xy 157.2459 93.98) (xy 168.6759 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5be58a83-24a6-42fa-854d-3b29fb06bddd")
-	)
-	(wire
-		(pts
 			(xy 180.34 177.8) (xy 180.34 185.42)
 		)
 		(stroke
@@ -6289,16 +6167,6 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 39.37) (xy 99.06 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cf7fe51-691f-4e47-83f2-04311ecfbf56")
-	)
-	(wire
-		(pts
 			(xy 64.77 93.98) (xy 76.2 93.98)
 		)
 		(stroke
@@ -6336,16 +6204,6 @@
 			(type default)
 		)
 		(uuid "75d1a6b5-dd3a-4b20-ada0-e72b54349a47")
-	)
-	(wire
-		(pts
-			(xy 76.2 46.99) (xy 87.63 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7880cd3f-37c9-470a-816d-3ea16f35f99d")
 	)
 	(wire
 		(pts
@@ -6409,16 +6267,6 @@
 	)
 	(wire
 		(pts
-			(xy 111.5259 93.98) (xy 122.9559 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82c0718e-32a4-48ab-b9da-df7a525d9214")
-	)
-	(wire
-		(pts
 			(xy 133.35 46.99) (xy 144.78 46.99)
 		)
 		(stroke
@@ -6429,7 +6277,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 46.99) (xy 99.06 46.99)
+			(xy 76.2 46.99) (xy 99.06 46.99)
 		)
 		(stroke
 			(width 0)
@@ -6506,16 +6354,6 @@
 			(type default)
 		)
 		(uuid "8c1c87c3-223c-4bfd-a64e-8892c2b1e4a5")
-	)
-	(wire
-		(pts
-			(xy 122.9559 93.98) (xy 134.3859 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c23038a-58f1-4876-852a-d94879dded58")
 	)
 	(wire
 		(pts
@@ -6599,7 +6437,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 39.37) (xy 87.63 39.37)
+			(xy 76.2 39.37) (xy 99.06 39.37)
 		)
 		(stroke
 			(width 0)
@@ -6656,16 +6494,6 @@
 			(type default)
 		)
 		(uuid "a3fafd42-b2f6-4d61-87f4-9434a6cbc9f5")
-	)
-	(wire
-		(pts
-			(xy 145.8159 86.36) (xy 157.2459 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4788e3b-a9aa-4593-b823-2daafad2b9ed")
 	)
 	(wire
 		(pts
@@ -6766,16 +6594,6 @@
 			(type default)
 		)
 		(uuid "ae9ae1e9-d1fe-4e76-aae8-5f509c190239")
-	)
-	(wire
-		(pts
-			(xy 145.8159 93.98) (xy 157.2459 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0e3a119-9ea2-4644-b421-d9b7f026e603")
 	)
 	(wire
 		(pts
@@ -6916,16 +6734,6 @@
 			(type default)
 		)
 		(uuid "c758133a-5f1d-40c3-b98f-3d68dd1f35d2")
-	)
-	(wire
-		(pts
-			(xy 168.6759 93.98) (xy 180.1059 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9212c59-bbda-4e78-9407-d62858cde4e1")
 	)
 	(wire
 		(pts
@@ -7109,36 +6917,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.6759 86.36) (xy 180.1059 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbabc2af-b9ab-4691-bab1-1b866ee62d09")
-	)
-	(wire
-		(pts
-			(xy 145.8159 95.25) (xy 145.8159 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd6f3689-24c0-4fe5-8b12-3f11e4a06fed")
-	)
-	(wire
-		(pts
-			(xy 122.9559 86.36) (xy 134.3859 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddace862-6f6e-4bc6-83ee-4659f2f2a6b1")
-	)
-	(wire
-		(pts
 			(xy 156.21 46.99) (xy 167.64 46.99)
 		)
 		(stroke
@@ -7146,16 +6924,6 @@
 			(type default)
 		)
 		(uuid "ddce3dbb-ed85-40a2-adfc-7bf8b68bb258")
-	)
-	(wire
-		(pts
-			(xy 157.2459 86.36) (xy 168.6759 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1695467-b5b0-4bc2-8dcc-ab7bb79ae1b0")
 	)
 	(wire
 		(pts
@@ -8846,71 +8614,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 145.8159 95.25 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2aa4424d-e6d0-4b31-9f63-31e45030d8ea")
-		(property "Reference" "#PWR014"
-			(at 145.8159 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 146.0699 98.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 145.8159 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 145.8159 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 145.8159 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fed888f3-8b36-4e56-8460-56b440ae080b")
-		)
-		(instances
-			(project "4in1ESC"
-				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 53.34 43.18 0)
 		(unit 1)
@@ -9064,85 +8767,6 @@
 			(project "4in1ESC"
 				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
 					(reference "C69")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 180.1059 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2d7185cb-5ed0-4d44-891b-6b93e635d84d")
-		(property "Reference" "C62"
-			(at 183.9159 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 183.9159 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 181.0711 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "X5R 50V"
-			(at 180.1059 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 180.1059 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C440198"
-			(at 180.1059 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "dada2fd0-e526-4017-9c43-1c77cbac639d")
-		)
-		(pin "1"
-			(uuid "329315e1-25a2-4379-9312-092877242eec")
-		)
-		(instances
-			(project "4in1ESC"
-				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
-					(reference "C62")
 					(unit 1)
 				)
 			)
@@ -11843,85 +11467,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 180.1059 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b9d181ac-33ba-490f-9096-90580fd41dd7")
-		(property "Reference" "C52"
-			(at 183.9159 66.0399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 183.9159 68.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 181.0711 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "X5R 50V"
-			(at 180.1059 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 180.1059 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C440198"
-			(at 180.1059 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c0746eb4-bc2f-47b9-acc8-75c7c7414331")
-		)
-		(pin "1"
-			(uuid "e30a3708-fcc5-46de-a1cb-aceaf7f1bb2d")
-		)
-		(instances
-			(project "4in1ESC"
-				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
-					(reference "C52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "ESCLibrary:GRM033R61C104KE84D")
 		(at 185.42 180.34 270)
 		(unit 1)
@@ -12226,164 +11771,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 134.3859 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c40cacfc-8364-4a58-a2ca-0ecbd0335770")
-		(property "Reference" "C56"
-			(at 138.1959 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 138.1959 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 135.3511 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "X5R 50V"
-			(at 134.3859 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 134.3859 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C440198"
-			(at 134.3859 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "06e4c5f6-9f39-4c1d-bc2e-5cf05a03b2c8")
-		)
-		(pin "1"
-			(uuid "90ef517f-bbec-4223-8e2b-83b2b05d5886")
-		)
-		(instances
-			(project "4in1ESC"
-				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
-					(reference "C56")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 168.6759 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c56c2105-258e-4df3-9658-6a752d0d6167")
-		(property "Reference" "C61"
-			(at 172.4859 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 172.4859 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 169.6411 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "X5R 50V"
-			(at 168.6759 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 168.6759 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C440198"
-			(at 168.6759 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5ae69529-4ef9-44f5-b53a-5d2d4957b59b")
-		)
-		(pin "1"
-			(uuid "0fc11ca2-0e9c-428e-ac41-772f89e7db92")
-		)
-		(instances
-			(project "4in1ESC"
-				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
-					(reference "C61")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "ESCLibrary:GRM033R61C104KE84D")
 		(at 69.85 166.37 180)
 		(unit 1)
@@ -12465,85 +11852,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 87.63 43.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c86a5548-55fc-4321-8b5a-a3286e7aa8ef")
-		(property "Reference" "C30"
-			(at 91.44 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 91.44 44.4499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 88.5952 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "X5R 50V"
-			(at 87.63 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 87.63 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C440198"
-			(at 87.63 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "db5db9d8-2ed8-4f45-8607-b9f24c153ca5")
-		)
-		(pin "1"
-			(uuid "bc7d31a1-83c8-4d67-a44a-ac595832f835")
-		)
-		(instances
-			(project "4in1ESC"
-				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
-					(reference "C30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 111.5259 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12616,72 +11924,6 @@
 			(project "4in1ESC"
 				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
 					(reference "C24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+BATT")
-		(at 145.8159 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ce9d3493-e798-4bf4-b29b-b207e83922a7")
-		(property "Reference" "#PWR013"
-			(at 145.8159 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+BATT"
-			(at 145.8159 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 145.8159 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 145.8159 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 145.8159 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "033c3da8-f151-404f-a202-5da5438a3b96")
-		)
-		(instances
-			(project "4in1ESC"
-				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
-					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -13372,85 +12614,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 122.9559 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "de0c2c6a-c117-43f3-b473-f94a1136468e")
-		(property "Reference" "C55"
-			(at 126.7659 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 126.7659 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 123.9211 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "X5R 50V"
-			(at 122.9559 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 122.9559 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C440198"
-			(at 122.9559 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a7ab1f06-1d6c-4fd5-8efc-256f9f8da898")
-		)
-		(pin "1"
-			(uuid "2e8c9245-e335-4412-a3d8-62e00b770458")
-		)
-		(instances
-			(project "4in1ESC"
-				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
-					(reference "C55")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 99.06 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13968,85 +13131,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 111.5259 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eeeb19de-658c-4e4a-9dc8-0f239e95202d")
-		(property "Reference" "C54"
-			(at 115.3359 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 115.3359 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 112.4911 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "X5R 50V"
-			(at 111.5259 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 111.5259 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C440198"
-			(at 111.5259 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2e0fa1d4-4ad2-4aed-b34a-f5615dc4df1a")
-		)
-		(pin "1"
-			(uuid "43148854-460f-4c2b-8da8-e46f474231da")
-		)
-		(instances
-			(project "4in1ESC"
-				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
-					(reference "C54")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "components:INA186A3IDCKR")
 		(at 323.85 140.97 0)
 		(unit 1)
@@ -14415,85 +13499,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 157.2459 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fa642404-b2eb-4c5f-a37b-fe8271a16376")
-		(property "Reference" "C60"
-			(at 161.0559 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 161.0559 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 158.2111 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "X5R 50V"
-			(at 157.2459 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 157.2459 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C440198"
-			(at 157.2459 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "84d19016-05ce-457f-b4e5-a5e8b0b4ee59")
-		)
-		(pin "1"
-			(uuid "47774dd3-204d-44d8-abf1-7b3cbc5a74ad")
-		)
-		(instances
-			(project "4in1ESC"
-				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
-					(reference "C60")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 208.28 180.34 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14566,85 +13571,6 @@
 			(project "4in1ESC"
 				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
 					(reference "C42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 145.8159 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fd4d1cf9-0d96-4d42-b3c8-12add0bcbef9")
-		(property "Reference" "C58"
-			(at 149.6259 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 149.6259 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 146.7811 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "X5R 50V"
-			(at 145.8159 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 145.8159 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C440198"
-			(at 145.8159 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1cbc6a62-bdbf-4eb1-a1c6-cc6d744bddc5")
-		)
-		(pin "1"
-			(uuid "b11ff407-6ef1-46ff-8e46-feda0c278f2d")
-		)
-		(instances
-			(project "4in1ESC"
-				(path "/612d09d9-c556-41af-8a15-92be360f8e81"
-					(reference "C58")
 					(unit 1)
 				)
 			)

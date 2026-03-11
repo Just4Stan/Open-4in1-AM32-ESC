@@ -17,10 +17,10 @@ I made a video explaining how it works: https://www.youtube.com/watch?v=TwAmmPxO
 | MCU | AT32F421G8U7 (ARM Cortex-M4, 120MHz) |
 | Gate driver | NSG2065Q (3-phase) |
 | MOSFETs | SP40N03GNJ (40V/75A, 2.9mOhm RDS(on)) |
-| Current sensing | INA199A1DCKR + 0.2mOhm shunt |
+| Current sensing | INA186A3IDCKR (100V/V) + 0.2mOhm shunt (165A max) |
 | Protocol | DShot (Betaflight compatible) |
-| Power supply | LMR51420YDDCR buck + TPS746-3.3DRV LDO |
-| Connector | HC-1.0-8PWT (8-pin) |
+| Power supply | LMR51420YDDCR buck + TLV76733DRVR LDO |
+| Connector | JST SM08B-SRSS-TB (Betaflight 8-pin standard) |
 | PCB | 6-layer, designed for JLCPCB PCBA |
 
 ## How it's built
@@ -47,16 +47,14 @@ Production files are in the `production/` folder:
 ESC.kicad_sch         Single ESC channel (used 4x)
 4in1ESC.kicad_pcb     PCB layout
 4in1ESC.pretty/       Custom footprints
+4in1ESC.3dshapes/     3D models (STEP files)
 components.kicad_sym  Custom symbols (gate driver, connector, etc.)
 production/           JLCPCB fabrication files
 ```
 
 ## TODO
 
-- [ ] Fix current sensing circuit (INA199A1DCKR)
 - [ ] Get AM32 certified ([AM32 Discord](https://discord.gg/am32))
-- [✓] Switch to [Betaflight Connector Standard](https://betaflight.com/docs/development/manufacturer/connector-standard) — 8-pin JST-SH with standard pinout (VBAT, GND, Current, Telemetry, Signal 1-4)
-- [ ] Evaluate Betaflight 10-pin variant for dual power/ground pins
 
 ## License
 
