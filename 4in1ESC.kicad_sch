@@ -5,7 +5,7 @@
 	(uuid "612d09d9-c556-41af-8a15-92be360f8e81")
 	(paper "A3")
 	(lib_symbols
-		(symbol "Connector:4in1ESC"
+		(symbol "components:4in1ESC"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -12994,7 +12994,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:4in1ESC")
+		(lib_id "components:4in1ESC")
 		(at 297.18 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)

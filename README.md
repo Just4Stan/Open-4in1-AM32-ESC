@@ -15,13 +15,19 @@ I made a video explaining how it works: https://www.youtube.com/watch?v=TwAmmPxO
 | Input voltage | 3-6S LiPo (11.1-25.2V) |
 | Continuous current | 35A per channel |
 | MCU | AT32F421G8U7 (ARM Cortex-M4, 120MHz) |
-| Gate driver | NSG2065Q (3-phase) |
-| MOSFETs | SP40N03GNJ (40V/75A, 2.9mOhm RDS(on)) |
+| Gate driver | NSG2065Q (3-phase, FD6288Q-compatible) |
+| MOSFETs | SP40N03GNJ (40V, 2.9mOhm) |
 | Current sensing | INA186A3IDCKR (100V/V) + 0.2mOhm shunt (165A max) |
 | Protocol | DShot (Betaflight compatible) |
 | Power supply | LMR51420YDDCR buck + TLV76733DRVR LDO |
 | Connector | JST SM08B-SRSS-TB (Betaflight 8-pin standard) |
-| PCB | 6-layer, designed for JLCPCB PCBA |
+| PCB | 6-layer, 1oz copper, designed for JLCPCB PCBA |
+
+## Alternative Components
+
+The gate driver footprint is compatible with the entire FD6288Q clone family (27,000+ units combined stock across 7+ manufacturers) and the TI DRV8300. No PCB changes needed for any of them. Multiple pin-compatible MOSFET options are also available.
+
+See [ALTERNATIVES.md](ALTERNATIVES.md) for the full list of pin-compatible gate drivers and MOSFETs with LCSC part numbers, specs, and stock levels.
 
 ## How it's built
 
