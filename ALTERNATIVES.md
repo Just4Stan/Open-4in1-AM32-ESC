@@ -64,8 +64,6 @@ QFN-24 4x4mm but **completely different pinout** with added SD pin. For 30x30 va
 
 Current part: **SP40N03GNJ** (C22466709) — 40V, 75A, 2.9mΩ, $0.10
 
-The 20x20 layout is constrained to 1oz copper (top-layer traces are 0.1mm, below JLCPCB's 0.16mm minimum for 2oz). Lower-RDS MOSFETs still help but the copper is the bottleneck at higher currents.
-
 ### 40V Alternatives — Sorted by Performance
 
 | Part | LCSC | Mfg | RDS(on) | Id | Pkg (mm) | Stock | Price |
@@ -78,31 +76,57 @@ The 20x20 layout is constrained to 1oz copper (top-layer traces are 0.1mm, below
 | **BSZ028N04LS** | C534649 | Infineon | 2.8mΩ | 40A | 3.3x3.3 | 1,595 | $0.88 |
 | **SP40N03GNJ** | C22466709 | Siliup | 2.9mΩ | 75A | 3.0x3.0 | 2,125 | **$0.10** |
 
+### 30V Premium Alternative — FDMC8010DC
+
+| Part | LCSC | Mfg | RDS(on) | Id | Qg | Pkg (mm) | Stock | Price |
+|------|------|-----|---------|----|-----|----------|-------|-------|
+| **FDMC8010DC** | C555489 | onsemi | **1.28mΩ@10V** | 157A | 67nC | PQFN-8 (3.3x3.3) | 2,965 | $0.90 |
+
+**Trade-offs vs SP40N03GNJ:**
+- **56% lower RDS(on)** — 1.28mΩ vs 2.9mΩ. Per-phase MOSFET loss drops from 5.8mΩ (2×2.9) to 2.56mΩ (2×1.28)
+- **36% lower total phase resistance** — ~5.8mΩ vs ~9.0mΩ including ~3.2mΩ copper (3mm wide × 10mm, 1oz)
+- **9× more expensive** — $0.90 vs $0.10 per FET, $21.60 vs $2.40 for all 24
+- **30V Vds** — max 7S LiPo (29.4V) vs 40V on SP40N03GNJ which handles 8S+ with margin. Limits battery voltage headroom and transient margin on 6S
+- **3.3x3.3mm package** — needs footprint update from current 3.0x3.0mm POWERPAK-1212-8
+- **Higher Qg** (67nC vs ~35nC) — more gate charge means slightly higher switching losses, partially offsets conduction gains at high PWM frequencies
+
+**Verdict:** Advertise as an optional premium build for users who want maximum efficiency on 3-6S and are willing to pay more. Not the default due to cost and reduced voltage headroom. Requires footprint change to 3.3x3.3mm PQFN-8.
+
+### Other 30V Low-RDS Alternatives (3.3x3.3mm DFN-8)
+
+| Part | LCSC | Mfg | RDS(on) | Id | Qg | Stock | Price |
+|------|------|-----|---------|----|-----|-------|-------|
+| **BSZ0901NS** | C534685 | Infineon | **1.7mΩ@10V** | 145A | 23nC | 4,035 | $0.74 |
+| **NCEP3065QU** | C502964 | Wuxi NCE | **1.9mΩ@10V** | 65A | 34.8nC | 2,356 | $0.40 |
+| **BSZ019N03LS** | C152374 | Infineon | 1.9mΩ@10V | 22A | — | 2,654 | $1.25 |
+
+All 30V parts share the same trade-off: lower RDS(on) but reduced voltage headroom (max 7S) and require 3.3x3.3mm footprint.
+
 ### Verify Footprint Fit
 
-The current footprint (POWERPAK-1212-8) is 3.0x3.0mm. The 3.3x3.3mm parts (BSZ, AON) may need footprint verification — pad pitch and layout could differ slightly. **Check datasheets before assuming drop-in compatibility with 3.3mm parts.**
+The current footprint (POWERPAK-1212-8) is 3.0x3.0mm. All 3.3x3.3mm parts (BSZ, AON, FDMC8010DC, NCEP3065QU) need footprint verification — pad pitch and layout could differ slightly. **Check datasheets before assuming drop-in compatibility with 3.3mm parts.**
 
-### Ohmic Loss Analysis (2mm trace width, 5mm trace length, 1oz copper, 80°C)
+### Ohmic Loss Analysis (3mm trace width, 10mm trace length, 1oz copper, 80°C)
 
-Per-phase current path: 4 trace segments + 2 MOSFETs (high + low side). 1oz copper only — 2oz is not possible on the 20x20 layout (0.1mm top-layer traces, JLCPCB 2oz minimum is 0.16mm).
+Per-phase current path: copper (bat + GND ≈ 3.2mΩ) + 2 MOSFETs (high + low side).
 
 **SP40N03GNJ @ 35A (1oz):**
 
-| Loss Source | Power | % |
-|-------------|-------|---|
-| 2x MOSFET (4.4mΩ each @80°C) | 10.7W | 59% |
-| 4x PCB trace (1.5mΩ each) | 7.4W | 41% |
-| **Total** | **18.1W** | |
+| Loss Source | Resistance | Power |
+|-------------|-----------|-------|
+| 2x MOSFET (2.9mΩ each) | 5.8 mΩ | 7.1W (64%) |
+| Copper (bat + GND) | 3.2 mΩ | 3.9W (36%) |
+| **Total** | **9.0 mΩ** | **11.0W** |
 
-**BSZ018N04LS6 @ 35A (1oz):**
+**FDMC8010DC @ 35A (1oz):**
 
-| Loss Source | Power | % |
-|-------------|-------|---|
-| 2x MOSFET (2.7mΩ each @80°C) | 6.6W | 47% |
-| 4x PCB trace (1.5mΩ each) | 7.4W | 53% |
-| **Total** | **14.0W** | |
+| Loss Source | Resistance | Power |
+|-------------|-----------|-------|
+| 2x MOSFET (1.28mΩ each) | 2.56 mΩ | 3.1W (44%) |
+| Copper (bat + GND) | 3.2 mΩ | 3.9W (56%) |
+| **Total** | **5.8 mΩ** | **7.1W** |
 
-On 1oz copper, PCB traces are the dominant loss source when using low-RDS MOSFETs. Upgrading from SP40N03GNJ to BSZ018N04LS6 saves ~4W at 35A, but the copper is the real limit. The 30x30 variant with wider traces and 2oz copper is needed for higher current applications.
+FDMC8010DC saves ~3.9W per phase at 35A (36% reduction). MOSFETs are the dominant loss in both cases on this board geometry. 2oz outer copper (JLCPCB supports 2oz/2oz outers on 6-layer) would further reduce copper losses but requires all B.Cu traces to meet 0.15mm minimum width.
 
 ---
 

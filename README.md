@@ -16,7 +16,7 @@ I made a video explaining how it works: https://www.youtube.com/watch?v=TwAmmPxO
 | Continuous current | 35A per channel |
 | MCU | AT32F421G8U7 (ARM Cortex-M4, 120MHz) |
 | Gate driver | NSG2065Q (3-phase, FD6288Q-compatible) |
-| MOSFETs | SP40N03GNJ (40V, 2.9mOhm) |
+| MOSFETs | SP40N03GNJ (40V, 2.9mΩ) — optional FDMC8010DC (30V, 1.28mΩ) for premium builds |
 | Current sensing | INA186A3IDCKR (100V/V) + 0.2mOhm shunt (165A max) |
 | Protocol | DShot (Betaflight compatible) |
 | Power supply | LMR51420YDDCR buck + TLV76733DRVR LDO |
@@ -25,7 +25,7 @@ I made a video explaining how it works: https://www.youtube.com/watch?v=TwAmmPxO
 
 ## Alternative Components
 
-The gate driver footprint is compatible with the entire FD6288Q clone family (27,000+ units combined stock across 7+ manufacturers) and the TI DRV8300. No PCB changes needed for any of them. Multiple pin-compatible MOSFET options are also available.
+The gate driver footprint is compatible with the entire FD6288Q clone family (27,000+ units combined stock across 7+ manufacturers) and the TI DRV8300. No PCB changes needed for any of them. Multiple pin-compatible MOSFET options are also available, including the FDMC8010DC (30V, 1.28mΩ) as a premium low-resistance option — 36% lower total phase resistance at the cost of reduced voltage headroom (7S max vs 8S+) and higher per-unit cost.
 
 See [ALTERNATIVES.md](ALTERNATIVES.md) for the full list of pin-compatible gate drivers and MOSFETs with LCSC part numbers, specs, and stock levels.
 
