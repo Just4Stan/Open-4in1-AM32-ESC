@@ -4215,7 +4215,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C473048"
+		(property "LCSC" "C106225"
 			(at 234.95 99.06 0)
 			(effects
 				(font
@@ -4334,7 +4334,7 @@
 		(at 34.29 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "16ecf559-69f0-4983-8452-63808a379217")
@@ -5455,7 +5455,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C473048"
+		(property "LCSC" "C106225"
 			(at 205.74 90.17 0)
 			(effects
 				(font
@@ -5624,7 +5624,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C473048"
+		(property "LCSC" "C106225"
 			(at 210.82 99.06 0)
 			(effects
 				(font
@@ -5885,7 +5885,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C473048"
+		(property "LCSC" "C106225"
 			(at 49.53 60.96 0)
 			(effects
 				(font
@@ -5977,7 +5977,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C473048"
+		(property "LCSC" "C106225"
 			(at 259.08 99.06 0)
 			(effects
 				(font
@@ -6333,7 +6333,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C473048"
+		(property "LCSC" "C106225"
 			(at 254 90.17 0)
 			(effects
 				(font
@@ -6596,7 +6596,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C473048"
+		(property "LCSC" "C106225"
 			(at 229.87 90.17 0)
 			(effects
 				(font
@@ -8306,7 +8306,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BLM03PX121SN1D"
+		(property "Value" "BLM03HD331SN1D"
 			(at 74.93 43.1418 0)
 			(effects
 				(font
@@ -8342,7 +8342,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C525479"
+		(property "LCSC" "C440127"
 			(at 72.39 41.91 0)
 			(effects
 				(font
@@ -8436,7 +8436,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C473535"
+		(property "LCSC" "C226468"
 			(at 49.53 80.01 0)
 			(effects
 				(font
@@ -8554,7 +8554,7 @@
 		(at 34.29 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f00611af-956f-4432-8234-bac8d0476ced")
@@ -8759,7 +8759,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C473048"
+		(property "LCSC" "C106225"
 			(at 34.29 63.5 0)
 			(effects
 				(font
