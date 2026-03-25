@@ -1,37 +1,46 @@
-# KiCad backup and autosave files
+# macOS
+.DS_Store
+
+# KiCad backup and autosave
 *-backups/
-*.kicad_sch-bak
-*.kicad_pcb-bak
+*.bak
+*.000
+_autosave-*
 *~
 \#auto_saved_files#
 
-# KiCad lock files
-~*.lck
-
-# KiCad cache files
-fp-info-cache
-
-# KiCad local settings (user-specific)
+# KiCad generated/local
 *.kicad_prl
-
-# OS files
-.DS_Store
-
-# Zip archives / old saves
-*.zip
-!production/*.zip
-
-# Fabrication toolkit temp
-fabrication-toolkit-options.json
-
-# Net file (generated)
+*.kicad_dru
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.lck
 *.net
-
-# Replicate layout log
+*.rpt
+*.tmp
+fp-info-cache
 replicate_layout.log
 
-# OpenFC placeholder (empty subproject)
-OpenFC/
+# KiCad local history
+**/.history/
 
-# Claude config
+# 3D exports (not library files)
+**/.step
+**/*.glb
+
+# Production output (generated, re-exportable)
+**/production/
+
+# Fabrication toolkit config
+fabrication-toolkit-options.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude
 .claude/
+CLAUDE.md
+
+# Repo-specific
+OpenFC/

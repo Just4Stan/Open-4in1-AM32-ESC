@@ -1,6 +1,6 @@
 # Open 4-in-1 AM32 ESC
 
-An open-source 4-in-1 ESC for FPV drones. Runs [AM32](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) firmware, works with Betaflight over DShot. Designed in KiCad 9, ready to order from JLCPCB.
+An open-source 4-in-1 ESC for FPV drones. Runs [AM32](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) firmware, works with Betaflight over DShot. Designed in KiCad, ready to order from JLCPCB.
 
 I made a video explaining how it works: https://www.youtube.com/watch?v=TwAmmPxOpTM
 
@@ -39,13 +39,6 @@ The main sheet (`4in1ESC.kicad_sch`) has the power supply, current sensing, and 
 - 6x SP40N03GNJ MOSFETs in 3 half-bridges
 - Back-EMF feedback network for sensorless commutation
 
-## Ordering from JLCPCB
-
-Production files are in the `production/` folder:
-- `v0.3.zip` — Gerber files
-- `bom.csv` — Bill of Materials with LCSC part numbers
-- `positions.csv` — Component placement for PCBA
-
 ## Project structure
 
 ```
@@ -55,13 +48,11 @@ ESC.kicad_sch         Single ESC channel (used 4x)
 4in1ESC.pretty/       Custom footprints
 4in1ESC.3dshapes/     3D models (STEP files)
 components.kicad_sym  Custom symbols (gate driver, connector, etc.)
-production/           JLCPCB fabrication files
+datasheets/           Component datasheets
+licensing/            Branding and third-party notices
+tools/                Analysis scripts
 ```
-
-## TODO
-
-- [ ] Get AM32 certified ([AM32 Discord](https://discord.gg/am32))
 
 ## License
 
-Licensed under [CERN-OHL-S-2.0](https://ohwr.org/cern_ohl_s_v2.txt). You can use, modify, and sell this design, but any modifications must also be open-sourced under the same license.
+Licensed under [CERN-OHL-S-2.0](https://ohwr.org/cern_ohl_s_v2.txt). See [LICENSE](LICENSE) and [licensing/](licensing/) for branding and third-party notices.
